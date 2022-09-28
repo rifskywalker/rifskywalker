@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rifskywalker
 - 👀 I’m interested in women
-- 🌱 I’m currently learning javascrip
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me ...
 
 <!---
